@@ -1,0 +1,3 @@
+the first day to use git bash
+
+econometrics
